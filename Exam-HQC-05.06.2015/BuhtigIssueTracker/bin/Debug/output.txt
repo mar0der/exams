@@ -1,0 +1,64 @@
+User admin registered successfully
+User admin logged in successfully
+User admin logged out successfully
+User admin logged in successfully
+Issue 1 created successfully
+Issue 2 created successfully
+Comment added successfully to issue 2
+Comment added successfully to issue 2
+New issue
+Priority: ***
+This is a new issue
+Tags: issue,new
+Another issue
+Priority: **
+This is another new issue
+Tags: another,issue,new
+Comments:
+New comment
+-- admin
+Another comment
+-- admin
+New comment
+-- admin
+Another comment
+-- admin
+User admin logged out successfully
+User user registered successfully
+User user logged in successfully
+Comment added successfully to issue 2
+Another comment by user
+-- user
+There is already a logged in user
+No issues
+The issue with ID 1 does not belong to user user
+New issue
+Priority: ***
+This is a new issue
+Tags: issue,new
+Another issue
+Priority: **
+This is another new issue
+Tags: another,issue,new
+Comments:
+New comment
+-- admin
+Another comment
+-- admin
+Another comment by user
+-- user
+New issue
+Priority: ***
+This is a new issue
+Tags: issue,new
+Another issue
+Priority: **
+This is another new issue
+Tags: another,issue,new
+Comments:
+New comment
+-- admin
+Another comment
+-- admin
+Another comment by user
+-- user

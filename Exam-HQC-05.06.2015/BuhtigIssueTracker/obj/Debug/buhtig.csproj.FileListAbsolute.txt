@@ -1,0 +1,9 @@
+C:\Users\Jamal\Desktop\Buhtigfehlerverfolgungssystem\buhtig\bin\Debug\buhtig.exe.config
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\buhtig\bin\Debug\buhtig.exe.config
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\buhtig\bin\Debug\buhtig.exe
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\buhtig\bin\Debug\buhtig.pdb
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\buhtig\bin\Debug\PowerCollections.dll
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\buhtig\bin\Debug\PowerCollections.xml
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\buhtig\obj\Debug\buhtig.csprojResolveAssemblyReference.cache
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\buhtig\obj\Debug\buhtig.exe
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\buhtig\obj\Debug\buhtig.pdb

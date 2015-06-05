@@ -1,0 +1,8 @@
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe.config
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.pdb
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.exe
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.exe
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\BuhtigIssueTracker\bin\Debug\BuhtigIssueTracker.pdb
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\BuhtigIssueTracker\bin\Debug\PowerCollections.dll
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\BuhtigIssueTracker\bin\Debug\PowerCollections.xml
+C:\Users\peter\Dropbox\1.SoftUni\Petar\Level 2\KPK\Exam 05.06.2015\BuhtigIssueTracker\BuhtigIssueTracker\obj\Debug\BuhtigIssueTracker.csprojResolveAssemblyReference.cache

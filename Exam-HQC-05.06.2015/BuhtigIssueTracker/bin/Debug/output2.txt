@@ -1,0 +1,25 @@
+The provided passwords do not match
+User admin registered successfully
+A user with username admin already exists
+User admin logged in successfully
+There is already a logged in user
+User admin logged out successfully
+A user with username invalid does not exist
+The password is invalid for user admin
+There is no currently logged in user
+User admin logged in successfully
+Issue 1 created successfully
+There is already a logged in user
+The title must be at least 3 symbols long
+The description must be at least 5 symbols long
+There is no issue with ID 30
+User admin logged out successfully
+There is no currently logged in user
+There is no currently logged in user
+User admin logged in successfully
+The text must be at least 2 symbols long
+There is no issue with ID 30
+User admin logged out successfully
+There is no currently logged in user
+There is no currently logged in user
+There are no issues matching the tags provided

@@ -1,0 +1,1 @@
+BuhtigIssueTracker.exe < input2.txt > output2.txt
